@@ -7,7 +7,7 @@ This is a curated collection of DSA problems I’ve solved while preparing for *
 
 ## 📌 About Me
 
-I'm **Sakshi Singh**, a 4th-year EC student based in Bangalore.  
+I'm **Sakshi Singh**, a 4th-year Electronics and Communication student based in Bangalore.  
 I’m passionate about solving real-world problems using Java and sharpening my coding skills through consistent practice.
 
 ---
